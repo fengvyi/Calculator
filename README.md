@@ -1,8 +1,9 @@
 # Calculator
-A Calculator app written in Swift 3 of Stanford CS193P Lecture
+A Calculator app written in Swift 3 of Stanford CS193P Lecture.
 ## Requirement
 * Xcode 8.2.1
 * Swift 3
+* IOS 10+
 ## About Swift
 The feature of closure in Swift makes the operations look very simple, 
 for example, we can reduce the code
@@ -39,3 +40,5 @@ private var operations: Dictionary<String,Operation> = [
 ```
 ## Screen Shot
 ![](https://github.com/fengvyi/Calculator/blob/master/Simulator%20Screen%20Shot.png)
+## License
+Copyright (c) 2017 Zefeng Song. Release under the MIT License.
