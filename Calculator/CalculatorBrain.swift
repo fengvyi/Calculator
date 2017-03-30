@@ -2,7 +2,7 @@
 //  CalculatorBrain.swift
 //  Calculator
 //
-//  Created by 宋泽烽 on 17/3/30.
+//  Created by Zefeng Song on 17/3/30.
 //  Copyright © 2017年 Zefeng Song. All rights reserved.
 //
 
