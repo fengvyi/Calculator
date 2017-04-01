@@ -1,5 +1,5 @@
 # Calculator
-A Calculator app written in Swift 3 of Stanford CS193P Lecture.
+A Calculator app written in Swift 3 of Stanford CS193P Spring 2016 Lecture .
 ## Requirement
 * Xcode 8.2.1
 * Swift 3
