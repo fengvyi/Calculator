@@ -33,6 +33,17 @@ class ViewController: UIViewController {
             display.text = String(newValue)
         }
     }
+    
+    var savedProgram: CalculatorBrain.PropertyList?
+    @IBAction func save() {
+        savedProgram = brain.program
+    }
+    @IBAction func restore() {
+        if savedProgram != nil {
+            brain.program = savedProgram!
+            displayValue = brain.result
+        }
+    }
    
     private var brain = CalculatorBrain()
     
